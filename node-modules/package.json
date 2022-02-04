@@ -4,7 +4,9 @@
   "description": "Abbi Kissee / ITDEV-161 / Spring 2022",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm server.js",
+    "server": "nodemon -r esm server.js"
   },
   "repository": {
     "type": "git",
