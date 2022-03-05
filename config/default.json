@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://kisseeal:Ice-land21@cluster0.peg84.mongodb.net/myDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://kisseeal:Ice-land21@cluster0.peg84.mongodb.net/myDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "maytheforcebewithyou"
 }
